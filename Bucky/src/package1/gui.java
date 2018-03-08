@@ -5,7 +5,7 @@ public class gui {
 	
 	public static void main(String args[]) {
 	
-		//* for testing GIT
+		//* for testing GIT2
 		JFrame frame = new JFrame();
 		JButton button = new JButton("click me");
 		
